@@ -1,0 +1,76 @@
+Title: ABOUT US
+
+----
+
+Background-image: 
+
+- env2.jpeg
+
+----
+
+About-image: 
+
+- team2.jpeg
+
+----
+
+About-title: ABOUT US
+
+----
+
+About-content: CARE has been working in India for over 65 years, focusing on alleviating poverty and social exclusion. We do this through well-planned and comprehensive programmes in health, education, livelihoods and disaster preparedness and response. We also focus on generating and sharing knowledge with diverse stakeholders to influence sustainable impact at scale. Our overall goal is the empowerment of women and girls from poor and marginalised communities, leading to improvement in their lives and livelihoods. We are part of the CARE International Confederation working in over 90 countries for a world where all people live with dignity and security.
+
+----
+
+History-title: HISTORY
+
+----
+
+History: 
+
+About a decade earlier, a few souls have gathered together for a good reason – to dedicate their time, resources and skills in reaching out to those women, children and the families in need, irrespective of their caste, creed and status.
+
+Little did that group of dedicated persons knew that today they would be successful running an established NGO, ‘Drishti Foundation Trust’ spread across more than 4 states, having an army of volunteers, touching the lives of thousands of needy women, children & families, based around the belief – to help make this world a better place for the underprivileged.
+
+Drishti Foundation Trust has been helping children from urban slums and other vulnerable communities to move on in life with the means of providing education and healthcare facilities. Drishti Foundation Trust believes in providing all the resources to the needy children to support & direct their childhood in a leading way; by educating & empowering them to help write their own destiny.
+
+----
+
+Bg-img-history: 
+
+- env3.jpg
+
+----
+
+Team-title: TEAM
+
+----
+
+Team: 
+
+- 
+  name: SACHIN
+  designation: '-> MANAGER'
+  pic:
+    - team2.jpeg
+    - team5.jpeg
+- 
+  name: VIRAT KOHLI
+  designation: '-> CEO'
+  pic:
+    - balajipic.jpg
+- 
+  name: NARENDRA MODI
+  designation: '->PM'
+  pic:
+    - team5.jpeg
+- 
+  name: DHONI
+  designation: '-> CAPTAIN'
+  pic:
+    - env3.jpg
+- 
+  name: ROHIT SHARMA
+  designation: '-> VICE CAPTAIN'
+  pic:
+    - balajipic.jpg

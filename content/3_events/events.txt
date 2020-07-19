@@ -1,0 +1,114 @@
+Title: EVENTS
+
+----
+
+Background:
+
+- event_background.jpg
+
+----
+
+Events-title: EVENTS
+
+----
+
+Events:
+
+- 
+  name: CYCLATION – CYCLING FOR EDUCATION
+  discription: |
+    ABOUT THIS PROJECT
+    Bhumi provides supplementary education to underprivileged children through volunteers on weekends to bridge the gap in education, across 12 cities in India. Bhumi has impacted the lives of over 25,000 beneficiaries through its educational progammes, approaching towards our vision to help build a more influential, equal and socially conscious society.
+  picture:
+    - event_background.jpg
+  pictures:
+    - web.jpg
+    - team1.jpeg
+    - team3.jpeg
+  images:
+    - env2.jpeg
+    - event_background.jpg
+    - team1.jpeg
+    - team3.jpeg
+    - web.jpg
+- 
+  name: RIDING FOR A CAUSE – BENGALURU
+  discription: |
+    ABOUT THIS PROJECT
+    Riding for a cause is a programme to promote cycling for a good health, at the same time volunteering for various social causes.
+    WHY
+    A group of Bhumi Bengaluru volunteers initiated the project to add a sense of social purpose to the healthy habit of cycling. Promoting the use of cycle is much essential step towards:
+    
+    increasing awareness on physical activity to maintain health, and
+    contributing, as a general public, to fight environmental pollution.
+  picture:
+    - team5.jpeg
+  pictures:
+    - team3.jpeg
+    - team5.jpeg
+    - web.jpg
+- 
+  name: CARNIVOL – FESTIVAL OF VOLUNTEERING
+  discription: |
+    ABOUT THIS PROJECT
+    CarniVol (i.e. Carnival of Volunteering) is an annual Bhumi event conducted every year from the last weekend of March to the first weekend of April. In 2017, the event will take place from March 25 to April 2. In 2016, the event was conducted as Festival of Volunteering.
+  picture:
+    - event_background.jpg
+  pictures:
+    - team1.jpeg
+    - team3.jpeg
+    - team5.jpeg
+    - web.jpg
+- 
+  name: 'PANEL DISCUSSION – SCHOOLS AND '
+  discription: |
+    ABOUT THIS PROJECT
+    Bhumi welcomes you all to a panel discussion
+    
+    Topic: How to address the challenges in public schools and the role of NGOs in the same
+    
+    Panelists:
+  picture:
+    - team5.jpeg
+  pictures:
+    - env2.jpeg
+    - event_background.jpg
+    - team1.jpeg
+    - team5.jpeg
+    - web.jpg
+- 
+  name: PANEL DISCUSSION – SCHOOLS AND NGOS
+  discription: |
+    CATEGORY
+    Events
+    ABOUT THIS PROJECT
+    Bhumi welcomes you all to a panel discussion
+    
+    Topic: How to address the challenges in public schools and the role of NGOs in the same
+  picture:
+    - env3.jpg
+  pictures:
+    - env.jpeg
+    - env2.jpeg
+    - env3.jpg
+- 
+  name: 'PANEL DISCUSSION – SCHOOLS AND NGOS '
+  discription: |
+    PANEL DISCUSSION – SCHOOLS AND NGOS | CHENNAI |
+    PANEL DISCUSSION – SCHOOLS AND NGOS | CHENNAI |
+    PANEL DISCUSSION – SCHOOLS AND NGOS | CHENNAI |
+  picture:
+    - env.jpeg
+  pictures:
+    - env3.jpg
+    - team5.jpeg
+    - web.jpg
+- 
+  name: Dance party
+  discription: yup we enjoying a lot in this party
+  picture:
+    - event_background.jpg
+  pictures:
+    - team3.jpeg
+    - team1.jpeg
+    - team5.jpeg

@@ -1,0 +1,29 @@
+title:  donate
+preset: page
+fields:
+  headline:
+    label: fill all the information correctly
+    type: headline
+  donate_title:
+    label:  title of the page(exp -> donate)
+    type: text
+  tagline:
+    label:  tag   lines
+    type: textarea 
+  bank:
+    label:  ADD PAYMENT MTHOD (ex. paytm)
+    type: structure
+    fields:
+      logo:
+        label:  ADD LOGO FOR PAYMENT METHOD
+        type: files
+      link:
+        type: textarea
+      
+  bank_tagline:
+    label:  text lines before bank details
+    type: textarea
+  bank_details:
+    label:  ENTER BANK DETAILS CAREFULLY
+    type: textarea
+        

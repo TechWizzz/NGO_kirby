@@ -1,0 +1,47 @@
+title: home
+preset: page
+
+fields:
+  headline:
+    label: fill all the information correctly
+    type: headline
+  background:
+    label: background
+    type: files
+    cover: true
+    layout: cards
+  backgroundtext:
+    label:  background-text
+    type: textarea
+  metatitle:
+    label: Meta Title
+    type: text
+  metadatadescription:
+    label: Meta Description
+    type: text
+  
+  vision_mission_title:
+    label: title (exp-> vision mission)
+    type: text
+  vision_mission:
+    label:  discription (exp->vision mission)
+    type: textarea
+  vision_mission_image:
+    label:  image (for exp-> vision and mission)
+    type: files
+  slogan:
+      label: Slogan for block
+      type: text
+  our_work_title:
+    label:  title (exp-> our work)
+    type: text
+  our_work_content:
+    label: OUR WORK Discription
+    type: textarea
+  work_image:
+    label: OUT WORK IMAGE
+    type: files
+    cover:  true
+    status: listed
+  
+  

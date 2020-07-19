@@ -1,0 +1,23 @@
+title:  Contact
+preset: page
+
+fields:
+  background:
+    label:  Background image
+    type: files
+  contact_number_title:
+    label:  TITLE FOR CONTACT NUMBER AND EMAIL BLOCK
+    type: text
+  contact:
+    label:  MOBILE NUMBER AND EMAIL ADDRESS
+    type: textarea
+  address_title:
+    label:  TITLE FOR OFFICE ADDRESS
+    type: text
+  address:
+    label:  ADDRESS
+    type: textarea
+  tagline:
+    label:  tagline
+    type: textarea
+  

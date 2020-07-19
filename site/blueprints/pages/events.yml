@@ -1,0 +1,33 @@
+title:  Events
+preset: page
+
+fields:
+  headline:
+    label: this template is just for creating event page for upload event details select event template
+    type: headline
+  background:
+    label:  background image
+    type: files
+    cover:  true
+  events_title:
+    label: title(exp-> event)
+    type: text
+  events:
+    label: ENTER EVENT'S
+    type: structure
+    fields:
+      name:
+        label:  name of event
+        type: text
+      discription:
+        label:  discription
+        type: textarea
+      picture:
+        label:  image which is show in front
+        type: files
+        max:  1
+      pictures:
+        label:  event images
+        type: files
+
+     

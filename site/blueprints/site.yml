@@ -1,0 +1,39 @@
+title: Site
+preset: page
+columns:
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        template:
+          - home
+          - about
+          - contact
+          - donate
+          - events
+            
+          
+fields:
+  headline:
+    label: fill all the information correctly
+    type: headline
+    status: listed
+  youtube:
+    label:  ENTER YOU TUBE CHANNEL LINK
+    type: text
+  instagram: 
+    label:  ENTER INSTAGRAM PROFILE LINK
+    type: text
+  facebook:
+    label: ENTER YOUR FACEBOOK PROFILE LINK
+    type: text
+  twitter:
+    label:  ENTER YOUR TWITTER PROFILE LINK
+    type: text
+  copyright:
+    label:  copy-right line(ex.- © 2019 Copyright)
+    type: textarea
+  logo:
+    label:  navbar logo
+    type: files
+          

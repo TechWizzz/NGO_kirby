@@ -1,0 +1,53 @@
+Title: CONTACT US
+
+----
+
+Background: 
+
+- eirth.jpg
+
+----
+
+Contact-number-title: CONTACT US
+
+----
+
+Contact: 
+
+phone :   7610905038
+
+email :    readybytes@gmail.com
+
+----
+
+Address-title: OUR OFFICE
+
+----
+
+Address: 
+
+8-J-17 tilak nagar bhilwara
+
+PIN CODE - 311001
+
+Rajsthan
+
+----
+
+Tagline: HELP & SUPPORT US TODAY
+
+----
+
+Contact-no: 9999999999
+
+----
+
+Email: readybytes@gmail.com
+
+----
+
+Office-address: 
+
+8-J-17 shasti nagar PIN- 311001
+Bhilwara (Raj.)
+West india

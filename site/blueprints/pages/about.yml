@@ -1,0 +1,43 @@
+title:  about
+preset: page
+fields:
+  headline:
+    label: fill all the information correctly
+    type: headline
+  background_image:
+    label: background-image
+    type: files
+  about_image:
+    label: about image
+    type: files
+  about_title:
+    label:  about us
+    type: text
+  about_content: 
+    label: about us content
+    type: textarea
+  history_title:
+    label:  HISTORY TITLE
+    type: text
+  history:
+    label: History
+    type: textarea
+  bg_img_history:
+    label: Background image of history
+    type: files
+  team_title:
+    label: title(for exp -> team/our team)
+    type: text
+  team:
+    label: TEAM MEMEBERS
+    type: structure
+    fields:
+      name:
+        type: text
+      designation:
+        type: text
+      pic:
+        type: files
+
+
+         

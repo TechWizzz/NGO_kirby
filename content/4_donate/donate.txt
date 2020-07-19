@@ -1,0 +1,103 @@
+Title: DONATE
+
+----
+
+Donate-title: DONATE
+
+----
+
+Tagline: Bhumi is now one of India’s largest independent volunteer organisations enabling over 25,000 children in orphanages, slums and government schools across India dream of a better future. Bhumi can sustain its work only if people like you can support us regularly. Choose from one of the three options below to donate. Queries or feedback? Email us at contribute@bhumi.ngo
+
+----
+
+Bank: 
+
+- 
+  logo:
+    - paytm.jpg
+  link: donate
+- 
+  logo:
+    - phon-pay.png
+  link: donate
+- 
+  logo:
+    - upi.png
+  link: donate
+
+----
+
+Bank-tagline: ACCOUNT DETAILS FOR ONLINE DONATION
+
+----
+
+Bank-details: 
+
+<p>ACCOUNT NUMBER  :   12312312313
+
+ACCOUNT HOLDER  : NGO</p>
+
+----
+
+Method1: https://temporarylink.com
+
+----
+
+Logo1: - upi.png
+
+----
+
+Method2: https://temporarylink.com
+
+----
+
+Logo2: - phon-pay.png
+
+----
+
+Method3: https://temporarylink.com
+
+----
+
+Logo3: - paytm.jpg
+
+----
+
+Method4: https://temporarylink.com
+
+----
+
+Logo4: - google-pay.png
+
+----
+
+Donate: 
+
+- 
+  logo:
+    - paytm.jpg
+  link: gifhefhvhberiifoiverigherigube
+  message: not now?
+- 
+  logo:
+    - phon-pay.png
+  link: giuweojgbefwrhbgohgerhoghiugergirruge
+  message: upcoming?
+- 
+  logo:
+    - google-pay.png
+  link: eghigoergwigerioggnrgiogoilgorifj
+  message: phone pay
+- 
+  logo:
+    - upi-logo.png
+  link: etkjhgfdsdf
+  message: upi
+
+----
+
+Taglinee: fhjymhngfb
+
+----
+
+Taglines: Bhumi is now one of India’s largest independent volunteer organisations enabling over 25,000 children in orphanages, slums and government schools across India dream of a better future. Bhumi can sustain its work only if people like you can support us regularly. Choose from one of the three options below to donate. Queries or feedback? Email us at contribute@readybytes.ng0
